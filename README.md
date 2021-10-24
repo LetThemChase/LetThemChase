@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/LetThemChase" alt="Keshav"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LetThemChase&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Keshav's Github Stats" /></a> | <a href="https://github.com/LetThemChase" alt="Keshav"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetThemChase&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
